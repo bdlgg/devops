@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/bdlgg/devops-ci-app"
+app_tag: "e5e008f1f488d8628560dc5260618018b5af26ed"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
